@@ -1,4 +1,4 @@
-# SXD-UI
+# XH-UI
 
 create-react-app + typescript 组件库
 npx create-react-app my-app --template typescript
